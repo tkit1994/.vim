@@ -1,0 +1,40 @@
+[submodule "pack/shapeshed/start/nerdtree"]
+	path = pack/shapeshed/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+	branch = master
+[submodule "pack/shapeshed/start/vim-airline"]
+	path = pack/shapeshed/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+	branch = master
+[submodule "pack/shapeshed/start/nerdcommenter"]
+	path = pack/shapeshed/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+	branch = master
+[submodule "pack/shapeshed/start/tagbar"]
+	path = pack/shapeshed/start/tagbar
+	url = https://github.com/majutsushi/tagbar
+	branch = master
+[submodule "pack/shapeshed/start/gruvbox"]
+	path = pack/shapeshed/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+	branch = master
+[submodule "pack/shapeshed/start/coc.nvim"]
+	path = pack/shapeshed/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+	branch = master
+[submodule "pack/shapeshed/start/vim-autoformat"]
+	path = pack/shapeshed/start/vim-autoformat
+	url = https://github.com/chiel92/vim-autoformat
+	branch = master
+[submodule "pack/shapeshed/start/vim-surround"]
+	path = pack/shapeshed/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+	branch = master
+[submodule "pack/shapeshed/start/vim-cool"]
+	path = pack/shapeshed/start/vim-cool
+	url = https://github.com/romainl/vim-cool
+	branch = master
+[submodule "pack/shapeshed/start/rainbow"]
+	path = pack/shapeshed/start/rainbow
+	url = https://github.com/luochen1990/rainbow
+	branch = master
