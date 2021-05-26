@@ -282,7 +282,7 @@ let g:coc_global_extensions = [
 			\'coc-markdownlint',
 			\'coc-highlight',
 			\'coc-go',
-			\'coc-python',
+			\'coc-pyright',
 			\'coc-explorer',
 			\'coc-json',
 			\'coc-git',
@@ -293,4 +293,5 @@ let g:coc_global_extensions = [
 			\'coc-cmake',
 			\'coc-pairs',
 			\'coc-rust-analyzer',
+			\'coc-snippets',
 			\]
