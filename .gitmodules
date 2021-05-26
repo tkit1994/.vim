@@ -38,3 +38,11 @@
 	path = pack/shapeshed/start/rainbow
 	url = https://github.com/luochen1990/rainbow
 	branch = master
+[submodule "pack/shapeshed/start/vim-devicons"]
+	path = pack/shapeshed/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+	branch = master
+[submodule "pack/shapeshed/start/nerdtree-dash"]
+	path = pack/shapeshed/start/nerdtree-dash
+	url = https://github.com/liuchengxu/nerdtree-dash
+	branch = master
