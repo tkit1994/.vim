@@ -283,7 +283,6 @@ let g:coc_global_extensions = [
 			\'coc-highlight',
 			\'coc-go',
 			\'coc-pyright',
-			\'coc-explorer',
 			\'coc-json',
 			\'coc-git',
 			\'coc-clangd',
