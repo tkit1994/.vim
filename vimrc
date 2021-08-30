@@ -247,7 +247,7 @@ autocmd BufEnter * if bufname('#') =~ 'NERD_tree_\d\+' && bufname('%') !~ 'NERD_
 
 " Tagbar
 nmap <F8> :TagbarToggle<CR>
-autocmd VimEnter * nested :call tagbar#autoopen(1)
+" autocmd VimEnter * nested :call tagbar#autoopen(1)
 
 " NERD Commenter
 " Create default mappings
