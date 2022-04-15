@@ -46,7 +46,3 @@
 	path = pack/shapeshed/start/nerdtree-dash
 	url = https://github.com/liuchengxu/nerdtree-dash
 	branch = master
-[submodule "pack/shapeshed/start/vim-snippets"]
-	path = pack/shapeshed/start/vim-snippets
-	url = https://github.com/honza/vim-snippets
-	branch = master
