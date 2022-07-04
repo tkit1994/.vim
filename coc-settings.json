@@ -9,5 +9,7 @@
 		"--header-insertion=never",
 		"--inlay-hints"
 	],
-	"diagnostic.checkCurrentLine": true
+	"diagnostic.checkCurrentLine": true,
+	"rust-analyzer.server.path": "/usr/bin/rust-analyzer",
+	"rust-analyzer.checkOnSave.enable": false
 }

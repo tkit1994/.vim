@@ -46,3 +46,7 @@
 	path = pack/shapeshed/start/nerdtree-dash
 	url = https://github.com/liuchengxu/nerdtree-dash
 	branch = master
+[submodule "pack/shapeshed/start/vim-pkgbuild"]
+	path = pack/shapeshed/start/vim-pkgbuild
+	url = https://github.com/m-pilia/vim-pkgbuild
+	branch = master
