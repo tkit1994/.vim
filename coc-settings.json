@@ -7,7 +7,7 @@
 		"--completion-style=detailed",
 		"--cross-file-rename",
 		"--header-insertion=never",
-		"--inlay-hints"
+		"--inlay-hints=true"
 	],
 	"diagnostic.checkCurrentLine": true,
 	"rust-analyzer.server.path": "/usr/bin/rust-analyzer",
