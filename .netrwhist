@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/tkit/code/go/mit_6.824'
+let g:netrw_dirhist_4='/home/tkit/code/ansible/k8s'
+let g:netrw_dirhist_3='/home/tkit/code/ansible'
+let g:netrw_dirhist_2='/home/tkit/code'
+let g:netrw_dirhist_1='/home/tkit/code/rust'
