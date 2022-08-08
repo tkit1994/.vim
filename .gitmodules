@@ -21,7 +21,7 @@
 [submodule "pack/shapeshed/start/coc.nvim"]
 	path = pack/shapeshed/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
-	branch = master
+	branch = release
 [submodule "pack/shapeshed/start/vim-autoformat"]
 	path = pack/shapeshed/start/vim-autoformat
 	url = https://github.com/chiel92/vim-autoformat
