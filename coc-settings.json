@@ -1,5 +1,4 @@
 {
-	"clangd.compilationDatabasePath": "build",
 	"clangd.arguments": [
 		"--log=verbose",
 		"--pretty",
@@ -11,5 +10,6 @@
 	],
 	"diagnostic.checkCurrentLine": true,
 	"rust-analyzer.server.path": "/usr/bin/rust-analyzer",
-	"rust-analyzer.checkOnSave.enable": false
+	"rust-analyzer.checkOnSave.enable": false,
+	"go.goplsPath": "/usr/bin/gopls"
 }
